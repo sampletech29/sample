@@ -21,7 +21,7 @@ body {
 .main {
   border: none;
   border-radius: 5px;
-  box-shadow: rgb(100, 100, 100, 0.4) 3px 3px;
+  box-shadow: rgb(100, 100, 100, 0.4) 2px 3px;
   background: rgb(255, 255, 255, 0.4);
   width: 400px;
   margin: auto;
@@ -55,6 +55,7 @@ body {
   border: none;
   border-radius: 10px;
   color: beige;
+  cursor: pointer;
 }
 
 .btn:hover {
