@@ -77,3 +77,7 @@ body {
   text-decoration: none;
   color: rgb(70, 180, 135);
 }
+
+.footer a:hover {
+  color: rgb(47, 128, 94);
+}
